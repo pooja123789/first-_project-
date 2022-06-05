@@ -5,6 +5,11 @@
     background-image: -webkit-image-set();
 
 }
+body {
+    background-color: rgb(252, 41, 129);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -27,6 +32,8 @@
     background-color: #ddd;
     color: black;
   }
+  
+    
   
   /* Add a color to the active/current link */
   .topnav a.active {
